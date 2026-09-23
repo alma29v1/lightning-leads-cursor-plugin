@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "lightning-leads",
+  "version": "1.0.0",
+  "description": "Field-sales plugin for Grok Bot and Cursor: find Lightning Leads, plan knock routes, prep appointments, log notes, and set dispositions without leaving chat.",
+  "author": {
+    "name": "Lightning Leads",
+    "email": "support@lightning-leads.com",
+    "url": "https://lightning-leads.com"
+  },
+  "homepage": "https://lightning-leads.com",
+  "repository": "https://github.com/alma29v1/lightning-leads-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "lightning-leads",
+    "field-sales",
+    "door-to-door",
+    "d2d",
+    "routes",
+    "leads",
+    "mcp",
+    "grok-bot"
+  ],
+  "logo": "assets/logo.svg"
+}
